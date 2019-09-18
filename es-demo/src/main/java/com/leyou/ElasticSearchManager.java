@@ -62,5 +62,8 @@ public class ElasticSearchManager {
     public void end(){
         client.close();
     }
-
+	@Test
+    public void en(){
+        index;
+    }
 }
