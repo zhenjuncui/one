@@ -62,5 +62,5 @@ public class ElasticSearchManager {
     public void end(){
         client.close();
     }
-
+ System.out.println(sourceAsString);
 }
