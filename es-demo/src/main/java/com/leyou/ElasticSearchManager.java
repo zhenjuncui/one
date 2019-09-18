@@ -62,5 +62,11 @@ public class ElasticSearchManager {
     public void end(){
         client.close();
     }
- System.out.println(sourceAsString);
+
+
+	@Test
+    public void en(){
+        index;
+    }
+	 System.out.println(sourceAsString);
 }
